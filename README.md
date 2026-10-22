@@ -1,6 +1,12 @@
-Computer Science Student at Cardiff University. Aspiring Software Developer passionate about building clean, practical software
+Hi, I'm Leonidas 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-papadakis-99231a39a/)
+Final-year **Computer Science** student at Cardiff University, building toward a
+career in **network engineering and network security**.
+
+I'm working through my **CCNA** alongside a networking-heavy module
+load - secure network design, distributed databases, and applied cryptography.
+
+**Find me** — [LinkedIn](https://www.linkedin.com/in/leo-papadakis-99231a39a/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
