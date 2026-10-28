@@ -18,8 +18,8 @@ Final-year **Computer Science** student at Cardiff University, aiming for networ
 
 | Project | What it is |
 |---|---|
-| [Homelab](https://github.com/LeonidasPapadakis/Homelab) | Proxmox + OPNsense: VLAN segmentation, inter-VLAN firewalling, LLM inference with old v100 GPUs, self-hosted git and streaming services |
-| [Cyber-security-network-design](https://github.com/LeonidasPapadakis/Cyber-security-network-design) | Secure network design in Packet Tracer: threat model to controls with ASA ACLs, DHCP snooping, DAI, HSRP and EtherChannel |
+| [Homelab](https://github.com/LeonidasPapadakis/Homelab) | My homelab setup: OPNsense with VLAN segmentation, inter-VLAN firewalling, LLM inference with old v100 GPUs, self-hosted git and streaming services |
+| [Cyber-security-network-design](https://github.com/LeonidasPapadakis/Cyber-security-network-design) | Secure university network design in Packet Tracer: threat models and controls with ASA ACLs, DHCP snooping, DAI, HSRP and EtherChannel |
 | [Bloombox](https://github.com/LeonidasPapadakis/Bloombox) | Smart greenhouse: Node.js API with bcrypt/JWT auth, Raspberry Pi controller, Arduino sensor and actuator network |
 | [student-rentals](https://github.com/LeonidasPapadakis/student-rentals) | Java OOP system: state-machine booking lifecycle, chain-of-responsibility input validation, BST search pruned by price and date range |
 
