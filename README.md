@@ -1,6 +1,6 @@
 # Hi, I'm Leo
 
-Final-year **Computer Science** student at Cardiff University, aiming for network engineering and network security roles after I graduate. My final-year modules (security, digital forensics, large-scale databases, robotics) sit alongside studying for my CCNA, and my homelab is where the two meet.
+Final-year **Computer Science** student at Cardiff University, aiming for network engineering and network security roles after I graduate. My final-year modules (security, digital forensics, large-scale databases, robotics) sit alongside studying for my CCNA, and I'm building a homelab in my spare time.
 
 ### Certifications
 ![CCNA](https://img.shields.io/badge/CCNA%20-in%20progress-blue)
@@ -18,10 +18,10 @@ Final-year **Computer Science** student at Cardiff University, aiming for networ
 
 | Project | What it is |
 |---|---|
-| [Homelab](https://github.com/LeonidasPapadakis/Homelab) | My homelab setup: OPNsense with VLAN segmentation, inter-VLAN firewalling, LLM inference with old v100 GPUs, self-hosted git and streaming services |
+| [Homelab](https://github.com/LeonidasPapadakis/Homelab) | My homelab setup: OPNsense with VLAN segmentation, inter-VLAN firewalling, LLM inference with Tesla v100 GPUs, self-hosted git and streaming services |
 | [Cyber-security-network-design](https://github.com/LeonidasPapadakis/Cyber-security-network-design) | Secure university network design in Packet Tracer: threat models and controls with ASA ACLs, DHCP snooping, DAI, HSRP and EtherChannel |
 | [Bloombox](https://github.com/LeonidasPapadakis/Bloombox) | Smart greenhouse: Node.js API with bcrypt/JWT auth, Raspberry Pi controller, Arduino sensor and actuator network |
-| [student-rentals](https://github.com/LeonidasPapadakis/student-rentals) | Java OOP system: state-machine booking lifecycle, chain-of-responsibility input validation, BST search pruned by price and date range |
+| [student-rentals](https://github.com/LeonidasPapadakis/student-rentals) | Java OOP system: state-machine booking lifecycle, chain-of-responsibility input validation, Hash-map of BSTs |
 
 <details>
 <summary>Other projects</summary>
