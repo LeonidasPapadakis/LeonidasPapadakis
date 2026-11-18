@@ -1,6 +1,6 @@
 # Hi, I'm Leo
 
-Final-year **Computer Science** student at Cardiff University interested in network infrastructure, software-development and cyber security.
+Final-year **Computer Science** student at Cardiff University interested in **network infrastructure**, **software-development** and **cyber security**.
 
 In my free time I enjoy working on my homelab and rebuilding vintage motorbikes.
 
