@@ -2,7 +2,7 @@
 
 Final-year **Computer Science** student at Cardiff University interested in **network infrastructure**, **software-development** and **cyber security**.
 
-In my free time I enjoy working on my homelab and rebuilding vintage motorbikes.
+In my free time I enjoy rebuilding vintage motorbikes and working on my homelab.
 
 ### Certifications
 ![CCNA](https://img.shields.io/badge/CCNA%20-in%20progress-blue)
